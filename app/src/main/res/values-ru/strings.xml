@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Фотогалерея</string>
+    <string name="open_in_browser">Открыть в браузере</string>
+    <string name="share">Поделиться</string>
+    <string name="share_via">Поделиться с помощью</string>
+    <string name="photo_title">Изображение %1$d из %2$d</string>
+    <string name="no_network">Произошла ошибка во время подключения к сети\nПотяните чтобы обновить</string>
+    <string name="about_app">О приложении</string>
+    <string name="dialog_msg">Фотогалерея выводит последние фотографии, залитые на фотохостинг <a href="https://www.flickr.com/">Flickr</a>.
+        \n\nИзображения предоставлены <a href="https://www.flickr.com/services/api/">FlickrAPI</a>.
+        \n\nПриложение создано в качестве вступительного задания в <a href="https://academy.yandex.ru/events/mobdev/msk-2018/">Яндекс Школу Мобильной Разработки 2018</a>.
+        \n\nРазработчик Кокорышкин Антон.</string>
+    </resources>
